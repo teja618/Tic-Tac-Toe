@@ -1,0 +1,22 @@
+main{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+
+app-app-square{
+    border: 1px grey solid;
+    height: 200px;
+}
+
+
+button{
+  background-color: rgb(6, 53, 139); /* Green */
+  border: none;
+  color: white;
+  padding:  32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 19px;
+}
